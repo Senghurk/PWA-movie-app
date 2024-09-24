@@ -1,10 +1,10 @@
 {
-  "name": "Movie Master",
-  "short_name": "Moviemaster",
+  "name": "Movie App",
+  "short_name": "MovieApp",
   "theme_color": "#8936FF",
   "background_color": "#333333",
   "start_url": "/",
-  "id": "MovieMaster",
+  "id": "MovieApp",
   "display": "standalone",
   "description": "MovieMaster PWA helps you find the latest movies with an easy search by genre, year, and more. It works smoothly on any device, even offline, giving you a great movie browsing experience.",
   "icons": [
